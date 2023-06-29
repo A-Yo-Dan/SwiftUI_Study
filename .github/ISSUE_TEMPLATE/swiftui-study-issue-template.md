@@ -1,5 +1,5 @@
 ---
-name: SwiftUI Study Issue
+name: SwiftUI Study Issue Template
 about: 아요단의 SwiftUI 스터디 이슈 템플릿
 title: ''
 labels: ''
@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-### Week ?
-Progress
+## Week ?
+### Progress
 - [ ] Section 1 수강
 - [ ] Section 1 수강
 - [ ] Section 1 수강
