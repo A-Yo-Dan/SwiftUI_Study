@@ -15,7 +15,7 @@
 <img width="200px" src="https://avatars.githubusercontent.com/u/125115284?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/87434861?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/80394340?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/106726862?v=4"/> |
 |:-----:|:-----:|:-----:|:-----:|
 |[박민서 (Lamp)](https://github.com/FpRaArNkK)|[서은수 (Seori)](https://github.com/EunsuSeo01)|[이유진 (Zimging)](https://github.com/youz2me)|[이재혁 (Ham)](https://github.com/hamgui-2022)|
-|팀원 🙋🏻‍♂️|팀원 🙋‍♀️|팀원 🙋‍♀️|팀장 🙋🏻‍♂️|
+|팀원 👨🏻‍💻|팀원 👩🏻‍💻|팀원 👩🏻‍💻|팀장 👨🏻‍💻|
 |아요단의 돈을 다 뺏어먹게따|iOS 개발자가 되고 싶은 아요단의 마자용입니다 🫡|아요단 짱이 되겠습니다 👊|아요단평생가.|
 
 </div>
