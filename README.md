@@ -15,7 +15,7 @@
 <img width="200px" src="https://avatars.githubusercontent.com/u/125115284?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/87434861?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/80394340?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/106726862?v=4"/> |
 |:-----:|:-----:|:-----:|:-----:|
 |[박민서 (Lamp)](https://github.com/FpRaArNkK)|[서은수 (Seori)](https://github.com/EunsuSeo01)|[이유진 (Zimging)](https://github.com/youz2me)|[이재혁 (Ham)](https://github.com/hamgui-2022)|
-|팀원 🙋🏻‍♂️|팀원 🙋‍♀️|팀원 🙋‍♀️|팀장 🙋🏻‍♂️|
+|팀원 👨🏻‍💻|팀원 👩🏻‍💻|팀원 👩🏻‍💻|팀장 👨🏻‍💻|
 |아요단의 돈을 다 뺏어먹게따|iOS 개발자가 되고 싶은 아요단의 마자용입니다 🫡|아요단 짱이 되겠습니다 👊|아요단평생가.|
 
 </div>
@@ -27,7 +27,7 @@
 - 각자 공부한 내용은 노션이나 블로그 등을 이용해 정리하고, 공부 인증 사진과 함께 본인의 Progress Report에 게시합니다.
 <br><br><br>
 
-## :warning: Panelty
+## :warning: Penalty
 - 스터디 지각 시 10분 당 2000원, 불참 시 30000원의 벌금을 부과합니다.
 - 공부한 내용을 Github에 추가하지 않을 경우 5000원의 벌금을 부과합니다.
 - 주어진 범위의 강의를 미완수할 경우 10000원의 벌금을 부과합니다.
