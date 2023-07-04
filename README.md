@@ -1,8 +1,8 @@
 <div align=center>
 
 # :apple: SwiftUI_Study :apple:
-  
-![](https://github.com/A-Yo-Dan/SwiftUI_Study/assets/80394340/17b0536e-632c-4f67-aa1e-36457be5a476)
+
+![](https://github.com/A-Yo-Dan/SwiftUI_Study/assets/80394340/6e8ee0ce-7146-484f-bff6-46363b44fe93)
 ### Udemy SwiftUI Masterclass 2023 강의를 들으며 SwiftUI를 공부한 내용을 기록하는 저장소입니다.
 #### 👀 [아요단 노션 링크](https://somanyfranks.notion.site/A-Yo-Dan-a7ae29b0509c442a9993f4821034bf19?pvs=4)     🖥️ [Udemy 강의 링크](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
 
@@ -12,11 +12,11 @@
 
 <div align=center>
 
-<img width="200px" src="https://avatars.githubusercontent.com/u/125115284?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/87434861?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/80394340?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/106726862?v=4"/> |
-|:-----:|:-----:|:-----:|:-----:|
-|[박민서 (Lamp)](https://github.com/FpRaArNkK)|[서은수 (Seori)](https://github.com/EunsuSeo01)|[이유진 (Zimging)](https://github.com/youz2me)|[이재혁 (Ham)](https://github.com/hamgui-2022)|
-|팀원 👨🏻‍💻|팀원 👩🏻‍💻|팀원 👩🏻‍💻|팀장 👨🏻‍💻|
-|아요단의 돈을 다 뺏어먹게따|iOS 개발자가 되고 싶은 아요단의 마자용입니다 🫡|아요단 짱이 되겠습니다 👊|아요단평생가.|
+<img width="160px" src="https://avatars.githubusercontent.com/u/125115284?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/100191598?v="/> | <img width="160px" src="https://avatars.githubusercontent.com/u/87434861?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/80394340?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/106726862?v=4"/> |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|[박민서 (Lamp)](https://github.com/FpRaArNkK)|[정현우 (Hyun)](https://github.com/iHyunWoo)|[서은수 (Seori)](https://github.com/EunsuSeo01)|[이유진 (Zimging)](https://github.com/youz2me)|[이재혁 (Ham)](https://github.com/hamgui-2022)|
+|팀원 👨🏻‍💻|팀원 👨🏻‍💻|팀원 👩🏻‍💻|팀원 👩🏻‍💻|팀장 👨🏻‍💻|
+|아요단의 돈을 다 뺏어먹게따|뭐적지? 연현 이거 보면 수정하십시오|iOS 개발자가 되고 싶은 아요단의 마자용입니다 🫡|아요단 짱이 되겠습니다 👊|아요단평생가.|
 
 </div>
 <br><br>
@@ -39,9 +39,9 @@
   
 |Week|Weekly Report|Personal Progress Report|Discussions|
 |:-----:|:-----:|:-----:|:-----:|
-| Week 1 |  [1️⃣ Week1 Weekly Report](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/17)  |   [🛋️ Lamp](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/20) [🦅 Seori](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/18)  [👾 Zimging](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/21)  [🐹 Ham]() | |
-| Week 2 |  [2️⃣ Week2 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() | |
-| Week 3 |  [3️⃣ Week3 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() | |
-| Week 4 |  [4️⃣ Week4 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() | |
-| Week 5 (Extra) |  [5️⃣ Week5 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() | |
+| Week 1 |  [1️⃣ Week1 Weekly Report](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/17)  |   [🛋️ Lamp](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/20) [🦅 Seori](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/18)  [👾 Zimging](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/21)  [🐹 Ham](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/22) [🐵 Hyun](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/26) | |
+| Week 2 |  [2️⃣ Week2 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
+| Week 3 |  [3️⃣ Week3 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
+| Week 4 |  [4️⃣ Week4 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
+| Week 5 (Extra) |  [5️⃣ Week5 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
 </div>
