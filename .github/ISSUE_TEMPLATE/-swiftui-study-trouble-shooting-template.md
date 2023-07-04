@@ -2,7 +2,7 @@
 name: "\bSwiftUI Study Trouble Shooting Template"
 about: 아요단의 SwiftUI 스터디 트슈 작성 템플릿
 title: 트러블슈팅 제목
-labels: "\U0001F525 Trouble Shooting"
+labels: "\U0001F4D1 Report, \U0001F54A️ SwiftUI, \U0001F525 Trouble Shooting"
 assignees: ''
 
 ---
