@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    
   // MARK: - PROPERTIES
   
   @State private var isShowingSettings: Bool = false
