@@ -44,5 +44,5 @@
 | Week 3 |  [3️⃣ Week3 Weekly Report](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/46)  |   [🛋️ Lamp]() [🦅 Seori](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/47)  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
 | Week 4 |  [4️⃣ Week4 Weekly Report](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/54)  |   [🛋️ Lamp]() [🦅 Seori](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/55)  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
 | Week 5 |  [5️⃣ Week5 Weekly Report](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/65)  |   [🛋️ Lamp]() [🦅 Seori](https://github.com/A-Yo-Dan/SwiftUI_Study/issues/66)  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
-| Week 5 |  [6️⃣ Week6 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
+| Week 6 |  [6️⃣ Week6 Weekly Report]()  |   [🛋️ Lamp]() [🦅 Seori]()  [👾 Zimging]()  [🐹 Ham]() [🐵 Hyun]() | |
 </div>
