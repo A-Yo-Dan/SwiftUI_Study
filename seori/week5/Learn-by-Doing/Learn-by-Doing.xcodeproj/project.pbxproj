@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		A210A8D82A7652B300343B29 /* Learn_by_DoingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A210A8D72A7652B300343B29 /* Learn_by_DoingApp.swift */; };
-		A210A8DA2A7652B300343B29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A210A8D92A7652B300343B29 /* ContentView.swift */; };
 		A210A8DC2A7652B500343B29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A210A8DB2A7652B500343B29 /* Assets.xcassets */; };
 		A210A8DF2A7652B500343B29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A210A8DE2A7652B500343B29 /* Preview Assets.xcassets */; };
 		A210A8E62A7654EF00343B29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A210A8E52A7654EF00343B29 /* LaunchScreen.storyboard */; };
-		A2C1977F2A765C0E00D52D45 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C1977E2A765C0E00D52D45 /* CardView.swift */; };
+		A25427732A7A5FD000DC7530 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25427712A7A5FD000DC7530 /* CardView.swift */; };
+		A25427742A7A5FD000DC7530 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25427722A7A5FD000DC7530 /* ContentView.swift */; };
 		A2C197822A7665DE00D52D45 /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C197812A7665DE00D52D45 /* CardModel.swift */; };
 		A2C197842A76675B00D52D45 /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C197832A76675B00D52D45 /* CardData.swift */; };
 		A2C197862A766CAB00D52D45 /* sound-chime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A2C197852A766CAB00D52D45 /* sound-chime.mp3 */; };
@@ -48,11 +48,11 @@
 /* Begin PBXFileReference section */
 		A210A8D42A7652B300343B29 /* Learn-by-Doing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learn-by-Doing.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A210A8D72A7652B300343B29 /* Learn_by_DoingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_by_DoingApp.swift; sourceTree = "<group>"; };
-		A210A8D92A7652B300343B29 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A210A8DB2A7652B500343B29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A210A8DE2A7652B500343B29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A210A8E52A7654EF00343B29 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A2C1977E2A765C0E00D52D45 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A25427712A7A5FD000DC7530 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A25427722A7A5FD000DC7530 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A2C197812A7665DE00D52D45 /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
 		A2C197832A76675B00D52D45 /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
 		A2C197852A766CAB00D52D45 /* sound-chime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "sound-chime.mp3"; sourceTree = "<group>"; };
@@ -98,7 +98,7 @@
 				A2C197872A766CB100D52D45 /* Data */,
 				A2C1978A2A766DDD00D52D45 /* Helpers */,
 				A2C197802A7665D000D52D45 /* Model */,
-				A2C1977D2A765BFC00D52D45 /* View */,
+				A25427702A7A5F8F00DC7530 /* View */,
 				A210A8E52A7654EF00343B29 /* LaunchScreen.storyboard */,
 				A2C197852A766CAB00D52D45 /* sound-chime.mp3 */,
 				A210A8DB2A7652B500343B29 /* Assets.xcassets */,
@@ -115,14 +115,13 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		A2C1977D2A765BFC00D52D45 /* View */ = {
+		A25427702A7A5F8F00DC7530 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				A210A8D92A7652B300343B29 /* ContentView.swift */,
-				A2C1977E2A765C0E00D52D45 /* CardView.swift */,
+				A25427712A7A5FD000DC7530 /* CardView.swift */,
+				A25427722A7A5FD000DC7530 /* ContentView.swift */,
 			);
-			name = View;
-			path = "퍋ㅈ";
+			path = View;
 			sourceTree = "<group>";
 		};
 		A2C197802A7665D000D52D45 /* Model */ = {
@@ -259,11 +258,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A25427732A7A5FD000DC7530 /* CardView.swift in Sources */,
 				A2C197842A76675B00D52D45 /* CardData.swift in Sources */,
+				A25427742A7A5FD000DC7530 /* ContentView.swift in Sources */,
 				A2C197892A766CBD00D52D45 /* PlaySound.swift in Sources */,
-				A210A8DA2A7652B300343B29 /* ContentView.swift in Sources */,
 				A2C197822A7665DE00D52D45 /* CardModel.swift in Sources */,
-				A2C1977F2A765C0E00D52D45 /* CardView.swift in Sources */,
 				A210A8D82A7652B300343B29 /* Learn_by_DoingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
