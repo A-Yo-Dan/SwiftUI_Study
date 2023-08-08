@@ -82,6 +82,7 @@
 		3A7CA923243BB43600876296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A887C3724252AFE00671B9E /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		3AB697B62436BE5E001F5B41 /* PlaySound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+		DDF1148D2A7A9B4F002CC904 /* Slot Machine Stickers.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Slot Machine Stickers.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +178,7 @@
 		3A7CA920243BB43100876296 /* Slot Machine Stickers */ = {
 			isa = PBXGroup;
 			children = (
+				DDF1148D2A7A9B4F002CC904 /* Slot Machine Stickers.entitlements */,
 				3A7CA921243BB43600876296 /* Stickers.xcassets */,
 				3A7CA923243BB43600876296 /* Info.plist */,
 			);
@@ -491,6 +493,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_ENTITLEMENTS = "Slot Machine Stickers/Slot Machine Stickers.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2DF5SKQK2R;
 				INFOPLIST_FILE = "Slot Machine Stickers/Info.plist";
@@ -498,6 +501,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftuimasterclass.com.Slot-Machine.Slot-Machine-Stickers";
 				PRODUCT_NAME = "Slot Machine";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -506,6 +510,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_ENTITLEMENTS = "Slot Machine Stickers/Slot Machine Stickers.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2DF5SKQK2R;
 				INFOPLIST_FILE = "Slot Machine Stickers/Info.plist";
@@ -513,6 +518,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftuimasterclass.com.Slot-Machine.Slot-Machine-Stickers";
 				PRODUCT_NAME = "Slot Machine";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
